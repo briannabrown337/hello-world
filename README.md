@@ -1,3 +1,3 @@
 # hello-world
-First repository '\n'
+First repository
 BSU Class of '26
